@@ -463,5 +463,6 @@
     </build>
 
     <modules>
+        <module>convenience-services</module>
     </modules>
 </project>
