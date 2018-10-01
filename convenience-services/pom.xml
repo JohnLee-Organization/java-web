@@ -14,7 +14,7 @@
     <version>JL.JavaWeb.1.0.0.0.1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>ConvenienceServices</name>
+    <name>JavaWeb ConvenienceServices</name>
 
     <dependencyManagement>
         <dependencies>
@@ -44,6 +44,7 @@
     </build>
 
     <modules>
+        <module>government</module>
     </modules>
 
 </project>
