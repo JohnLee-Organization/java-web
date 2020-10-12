@@ -54,7 +54,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <project.jkd.version>1.7</project.jkd.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <slf4j.version>1.7.7</slf4j.version>
         <lombok.version>1.16.8</lombok.version>
         <solr.version>4.10.4</solr.version>
